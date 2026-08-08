@@ -12,6 +12,10 @@ The companion [**`legal-rag-pt-n8n`**](https://github.com/ruialexrib/legal-rag-p
 
 Run this repository's notebooks through `06_qdrant_setup.ipynb` before using the n8n application, so that Qdrant contains the required vectors and payload metadata.
 
+## Documentation
+
+The central [**`legal-rag-pt-doc`**](https://github.com/ruialexrib/legal-rag-pt-doc) repository provides the complete technical documentation for the project, including the overall architecture, theoretical background, environment setup, corpus construction methodology, retrieval evaluation, conversational application, and full technical report.
+
 ## Pipeline
 
 ```text
