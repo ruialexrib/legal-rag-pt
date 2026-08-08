@@ -8,7 +8,7 @@ The project uses the **Porto Municipal Regulatory Code (CRMP)** as a case study 
 
 ## Companion n8n application
 
-The companion **`legal-rag-pt-n8n`** repository provides the conversational application layer for this project. Its n8n workflow uses the `crmp_bge_m3` collection created here to retrieve relevant legal context, generate grounded answers with a local language model through Ollama, and return CRMP article and page references.
+The companion [**`legal-rag-pt-n8n`**](https://github.com/ruialexrib/legal-rag-pt-n8n) repository provides the conversational application layer for this project. Its n8n workflow uses the `crmp_bge_m3` collection created here to retrieve relevant legal context, generate grounded answers with a local language model through Ollama, and return CRMP article and page references.
 
 Run this repository's notebooks through `06_qdrant_setup.ipynb` before using the n8n application, so that Qdrant contains the required vectors and payload metadata.
 
