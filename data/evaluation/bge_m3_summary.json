@@ -1,0 +1,15 @@
+{
+  "model": "bge-m3",
+  "collection": "crmp_bge_m3",
+  "num_queries": 5,
+  "Hit@1": 1.0,
+  "Recall@1": 1.0,
+  "Hit@3": 1.0,
+  "Recall@3": 1.0,
+  "Hit@5": 1.0,
+  "Recall@5": 1.0,
+  "Hit@10": 1.0,
+  "Recall@10": 1.0,
+  "MRR": 1.0,
+  "Mean Latency": 0.9092613799999526
+}

@@ -1,0 +1,6 @@
+id,query,relevant_articles,retrieved_articles,reciprocal_rank,latency_seconds,hit@1,recall@1,hit@3,recall@3,hit@5,recall@5,hit@10,recall@10
+q001,Quais são os princípios que orientam a atuação do Município na prossecução do interesse público?,['A-1/1.º'],"['A-1/1.º', 'F-2/1.º', 'A-1/2.º', 'A/2.º', 'B-1/1.º', 'A-1/7.º', 'A-1/3.º', 'C-2/3.º', 'A-1/4.º', 'A-1/6.º']",1.0,1.0609426999999414,1,1.0,1,1.0,1,1.0,1,1.0
+q002,Que regras existem relativamente à proteção de dados pessoais?,['A-1/7.º'],"['A-1/7.º', 'E-7/13.º', 'A-2/4.º', 'D-12/7.º', 'C-3/15.º', 'E-7/39.º', 'E-7/11.º', 'E-7/26.º', 'E-7/8.º', 'E-7/74.º']",1.0,0.8543110999999044,1,1.0,1,1.0,1,1.0,1,1.0
+q003,Como deve ser apresentado um requerimento ao Município?,['A-2/3.º'],"['A-2/3.º', 'D-4/15.º-C', 'F-2/3.º', 'D-3/55.º', 'E-7/8.º-A', 'E-7/41.º', 'A-2/2.º', 'E-7/33.º', 'D-4/14.º-A', 'E-7/35.º']",1.0,0.870091599999796,1,1.0,1,1.0,1,1.0,1,1.0
+q004,Que elementos devem constar de um requerimento?,['A-2/4.º'],"['A-2/4.º', 'D-3/55.º', 'B-1/5.º-A', 'E-7/8.º-A', '24.º', 'A-2/3.º', 'A-2/6.º']",1.0,0.822882499998741,1,1.0,1,1.0,1,1.0,1,1.0
+q005,O que acontece quando um requerimento apresenta deficiências?,['A-2/5.º'],"['A-2/5.º', 'C-2/22.º', 'F-2/5.º', 'D-9/7.º', 'A-2/6.º', 'D-10/9.º', 'D-3/34.º', 'A-2/4.º', 'F-1/7.º-A', 'D-1/76.º']",1.0,0.9380790000013803,1,1.0,1,1.0,1,1.0,1,1.0
