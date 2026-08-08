@@ -190,4 +190,4 @@ This project is intended for experimental and educational purposes. Its results 
 
 ## License
 
-This repository does not yet include a license. Before publishing it, choose an appropriate license for the code and separately confirm the reuse terms that apply to the source document and derived data.
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
