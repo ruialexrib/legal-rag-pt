@@ -134,10 +134,10 @@ legal-rag-pt/
 git clone https://github.com/ruialexrib/legal-rag-pt.git
 cd legal-rag-pt
 python -m venv .venv
-pip install jupyter pymupdf numpy pandas requests qdrant-client
+source .venv/bin/activate  # Windows (PowerShell): .\.venv\Scripts\Activate.ps1
+python -m pip install jupyter pymupdf numpy pandas requests qdrant-client
 ollama pull bge-m3
 docker compose up -d
-```
 
 Start Jupyter from the notebooks directory:
 
