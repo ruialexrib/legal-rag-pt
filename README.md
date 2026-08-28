@@ -19,7 +19,7 @@
 
 ## About
 
-**Legal RAG PT** is an experimental Retrieval-Augmented Generation retrieval pipeline for semantic search over Portuguese legal documents. The **Porto Municipal Regulatory Code (CRMP)** is used as a case study.
+**Legal RAG PT** is an experimental Retrieval-Augmented Generation (RAG) pipeline for semantic search over Portuguese legal documents. The **Porto Municipal Regulatory Code (CRMP)** is used as a case study.
 
 The project covers the complete retrieval process: PDF extraction, preprocessing, legal structure parsing, article-aware chunking, local embedding generation with `bge-m3`, Qdrant indexing, semantic vector search, and retrieval evaluation.
 
